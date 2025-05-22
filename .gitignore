@@ -5,6 +5,7 @@
 crash.log
 *.tfvars
 terraform.tfstate.backup
+terraform.exe
 
 lambda_function.zip
 
